@@ -1,4 +1,5 @@
 # referrush.com
+<a href="https://www.referrush.com/">ReferRush</a>
 <h1>Boost Your Business with ReferRush: The Ultimate Referral Marketing Platform</h1>
 
 In today’s competitive market, businesses need smarter ways to grow and retain their customers. While digital ads and email campaigns are helpful, nothing beats the power of referral marketing. When your customers recommend your brand to their friends and family, it creates trust, increases sales, and reduces marketing costs.
@@ -30,7 +31,7 @@ If you’re a D2C brand, ReferRush is perfect for you. It works for:
 E-commerce Stores: Boost revenue by turning happy customers into ambassadors.
 SaaS Companies: Get more users by encouraging referrals from your existing customers.
 Subscription Services: Build long-term loyalty with easy-to-use referral programs.
-Get Started with ReferRush
+Get Started with <a href="https://www.referrush.com/">ReferRush</a>
 Referral marketing is one of the most effective ways to grow your business, and ReferRush makes it simple. By automating the process, offering flexible rewards, and integrating seamlessly with your tools, ReferRush ensures that your referral program works smoothly.
 
 Ready to take your business to the next level? Visit ReferRush.com to learn more and start your referral journey today.
